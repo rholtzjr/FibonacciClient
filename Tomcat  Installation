@@ -1,0 +1,3 @@
+1. Get FibonacciClient.war file from repository
+2. Deploy to the webapps subdirectory of the Tomcat installation.
+3. Start the application server.
