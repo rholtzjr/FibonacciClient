@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//src/org/holtz/fibonacci/Fibonacci.java=UTF-8
+encoding//src/org/holtz/fibonacci/FibonacciService.java=UTF-8
+encoding//src/org/holtz/fibonacci/FibonacciServiceLocator.java=UTF-8
+encoding//src/org/holtz/fibonacci/FibonacciSoapBindingStub.java=UTF-8
